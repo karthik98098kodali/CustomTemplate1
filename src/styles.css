@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+img, svg {
+    vertical-align: middle;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+/* .bio-properties-panel-container .bio-properties-panel .bio-properties-panel-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: var(--text-size-base);
+    padding: 16px 10px;
+    background-color: hsl(205deg 100% 50%);
+    border-bottom: 1px solid hsl(225deg 10% 58%);
+    width: 100%;
+    z-index: 10;
+    max-height: 64px;
+    overflow: hidden;
+  } */
+
+  /* .bio-properties-panel-header-icon {
+    fill: hsl(205deg 100% 95%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+}
+
+.bio-properties-panel {
+    color: hsl(225deg 10% 97%);
+} */
